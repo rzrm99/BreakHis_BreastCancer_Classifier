@@ -56,11 +56,11 @@ https://www.kaggle.com/datasets/ambarish/breakhis
 
 This project is provided strictly for educational and research purposes.
 
-- **Not for clinical use: The model has not been validated, certified, or approved for use in any medical or diagnostic context. It should not be used to inform or influence healthcare decisions.
+- Not for clinical use: The model has not been validated, certified, or approved for use in any medical or diagnostic context. It should not be used to inform or influence healthcare decisions.
 
-- **No medical guarantees: This software does not provide medical advice and is not intended to diagnose, treat, cure, or prevent any disease or health condition. Its outputs are not a substitute for consultation with a licensed medical professional.
+- No medical guarantees: This software does not provide medical advice and is not intended to diagnose, treat, cure, or prevent any disease or health condition. Its outputs are not a substitute for consultation with a licensed medical professional.
 
-- **Use at your own risk: The author assumes no responsibility or legal liability for any consequences arising from the use or misuse of this code or its results in real-world applications.
+- Use at your own risk: The author assumes no responsibility or legal liability for any consequences arising from the use or misuse of this code or its results in real-world applications.
 
 Always seek guidance from a qualified healthcare provider before making any medical decisions based on experimental software or artificial intelligence models.
 
