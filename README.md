@@ -41,7 +41,8 @@ This project uses a pretrained **SqueezeNet** CNN to classify **benign vs. malig
 ![ROC Curve](./roc_curve.png)
 <img width="987" height="757" alt="image" src="https://github.com/user-attachments/assets/78b8cd14-6036-4e32-85d5-e35d103f7694" />
 
----
+---<img width="1160" height="902" alt="Figure_2" src="https://github.com/user-attachments/assets/84b75206-6398-4340-9acd-d89f28f109e5" />
+
 
 ## 🔬 Dataset
 BreakHis histopathological dataset:  
