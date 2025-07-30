@@ -37,11 +37,10 @@ This project uses a pretrained **SqueezeNet** CNN to classify **benign vs. malig
 
 - Test Accuracy: 94.18%
 - ROC AUC: 0.981
+<img width="1222" height="902" alt="Figure_1" src="https://github.com/user-attachments/assets/fda4d3d5-9c0c-4b90-8455-a421a104eb1b" />
 
-![ROC Curve](./roc_curve.png)
 <img width="987" height="757" alt="image" src="https://github.com/user-attachments/assets/78b8cd14-6036-4e32-85d5-e35d103f7694" />
 
----<img width="1160" height="902" alt="Figure_2" src="https://github.com/user-attachments/assets/84b75206-6398-4340-9acd-d89f28f109e5" />
 
 
 ## 🔬 Dataset
